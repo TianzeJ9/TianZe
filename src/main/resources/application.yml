@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    username: root
+  #密码根据自己的密码改
+    password: 123456
+  #数据库名字根据自己的改
+    url: jdbc:mysql://localhost:3306/mf?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  thymeleaf:
+  #放弃开启缓存 这样后台更新代码会立刻显示新的网页
+    cache: false
+  #配置模板路径，默认是templates，可以不用配置
+  #prefix: classpath:/templates
