@@ -1,0 +1,15 @@
+172.28.1.50
+cmd 命令
+cd .. 返回上一目录 cd xx 进入XX目录。
+
+
+vscode调出控制台: ctrl + shift + y
+
+
+1.Ctrl+Shift+C VSC启动控制台
+
+
+
+2.nodejs 服务器端的js
+前端项目 vue(前端页面设计)+Element ui（vue的UI小组件）
+

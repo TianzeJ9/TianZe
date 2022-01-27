@@ -1,0 +1,16 @@
+1.代码错误先看标符号或者其他有关输入法的问题。
+2.IE无法打开vue内容要用Chrome打开
+3.JS script里 注释// /* */
+4.正向代理和反向代理  
+正向代理  我想去日本买东西 我进不去日本 A进的去日本 我把钱给A 让A进去买给我
+反向代理  A想卖苹果给B C D区域的人 但是区域人不一样多 于是根据人数把苹果对应分给BCD区域的代理人 让他们卖
+JS
+1.document.getElementById("myH1").innerHTML和document.write(Date());区别 一个直接重写覆盖 一个只写在固定的内容
+2.window.alert(5 + 6);输出一个窗口
+3.console.log()输出到控制台
+4.var person = {firstName:"John",lastName:"Doe",age:50,eyeColor:"blue"};JS定义对象多个属性和方法
+document.getElementById("demo").innerHTML =
+	person.firstName + " " + person.lastName;  " "是空格 这样子来访问
+5.var var1 = 1; // 不可配置全局属性不可删除 外部不显示
+　var2 = 2; // 没有使用 var 声明，可删除 外部显示
+6.
